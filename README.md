@@ -1,0 +1,1 @@
+# kriptoshtamp-test-task
