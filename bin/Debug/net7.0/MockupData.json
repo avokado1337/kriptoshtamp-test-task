@@ -1,0 +1,204 @@
+[
+  {
+    "id": 1,
+    "name": "Robert",
+    "surname": "De Niro",
+    "middlename": "",
+    "dateOfBirth": "1943, 08, 17",
+    "Country": "USA",
+    "City": "New York",
+    "Gender": "Male"
+  },
+  {
+    "id": 2,
+    "name": "Jack",
+    "surname": "Nicholson",
+    "middlename": "",
+    "dateOfBirth": "1937, 04, 22",
+    "Country": "USA",
+    "City": "New Jersey",
+    "Gender": "Male"
+  },
+  {
+    "id": 3,
+    "name": "Marlon",
+    "surname": "Brando",
+    "middlename": "",
+    "dateOfBirth": "1924, 04, 03",
+    "Country": "USA",
+    "City": "Omaha",
+    "Gender": "Male"
+  },
+  {
+    "id": 4,
+    "name": "Denzel",
+    "surname": "Washington",
+    "middlename": "",
+    "dateOfBirth": "1954, 12, 28",
+    "Country": "USA",
+    "City": "New York",
+    "Gender": "Male"
+  },
+  {
+    "id": 5,
+    "name": "Katharine",
+    "surname": "Hepburn",
+    "middlename": "Houghton",
+    "dateOfBirth": "1907, 05, 12",
+    "Country": "USA",
+    "City": "Hartford",
+    "Gender": "Female"
+  },
+  {
+    "id": 6,
+    "name": "Humphrey",
+    "surname": "Bogart",
+    "middlename": "DeForest",
+    "dateOfBirth": "1899, 12, 25",
+    "Country": "USA",
+    "City": "New York",
+    "Gender": "Male"
+  },
+  {
+    "id": 7,
+    "name": "Meryl",
+    "surname": "Streep",
+    "middlename": "Louise",
+    "dateOfBirth": "1949, 06, 22",
+    "Country": "USA",
+    "City": "Summit",
+    "Gender": "Female"
+  },
+  {
+    "id": 8,
+    "name": "Daniel",
+    "surname": "Day-Lewis",
+    "middlename": "Michael Blake",
+    "dateOfBirth": "1957, 04, 29",
+    "Country": "United Kingdom",
+    "City": "London",
+    "Gender": "Male"
+  },
+  {
+    "id": 9,
+    "name": "Sidney",
+    "surname": "Poitier",
+    "middlename": "",
+    "dateOfBirth": "1927, 02, 20",
+    "Country": "USA",
+    "City": "Cat Island",
+    "Gender": "Male"
+  },
+  {
+    "id": 10,
+    "name": "William",
+    "surname": "Gable",
+    "middlename": "Clark ",
+    "dateOfBirth": "1901, 02, 01",
+    "Country": "USA",
+    "City": "Candiz",
+    "Gender": "Male"
+  },
+
+
+  {
+    "id": 11,
+    "name": "Robert",
+    "surname": "De Niro",
+    "middlename": "",
+    "dateOfBirth": "1943, 08, 17",
+    "Country": "USA",
+    "City": "New York",
+    "Gender": "Male"
+  },
+  {
+    "id": 12,
+    "name": "Jack",
+    "surname": "Nicholson",
+    "middlename": "",
+    "dateOfBirth": "1937, 04, 22",
+    "Country": "USA",
+    "City": "New Jersey",
+    "Gender": "Male"
+  },
+  {
+    "id": 13,
+    "name": "Marlon",
+    "surname": "Brando",
+    "middlename": "",
+    "dateOfBirth": "1924, 04, 03",
+    "Country": "USA",
+    "City": "Omaha",
+    "Gender": "Male"
+  },
+  {
+    "id": 14,
+    "name": "Denzel",
+    "surname": "Washington",
+    "middlename": "",
+    "dateOfBirth": "1954, 12, 28",
+    "Country": "USA",
+    "City": "New York",
+    "Gender": "Male"
+  },
+  {
+    "id": 15,
+    "name": "Katharine",
+    "surname": "Hepburn",
+    "middlename": "Houghton",
+    "dateOfBirth": "1907, 05, 12",
+    "Country": "USA",
+    "City": "Hartford",
+    "Gender": "Female"
+  },
+  {
+    "id": 16,
+    "name": "Humphrey",
+    "surname": "Bogart",
+    "middlename": "DeForest",
+    "dateOfBirth": "1899, 12, 25",
+    "Country": "USA",
+    "City": "New York",
+    "Gender": "Male"
+  },
+  {
+    "id": 17,
+    "name": "Meryl",
+    "surname": "Streep",
+    "middlename": "Louise",
+    "dateOfBirth": "1949, 06, 22",
+    "Country": "USA",
+    "City": "Summit",
+    "Gender": "Female"
+  },
+  {
+    "id": 18,
+    "name": "Daniel",
+    "surname": "Day-Lewis",
+    "middlename": "Michael Blake",
+    "dateOfBirth": "1957, 04, 29",
+    "Country": "United Kingdom",
+    "City": "London",
+    "Gender": "Male"
+  },
+  {
+    "id": 19,
+    "name": "Sidney",
+    "surname": "Poitier",
+    "middlename": "",
+    "dateOfBirth": "1927, 02, 20",
+    "Country": "USA",
+    "City": "Cat Island",
+    "Gender": "Male"
+  },
+  {
+    "id": 20,
+    "name": "William",
+    "surname": "Gable",
+    "middlename": "Clark ",
+    "dateOfBirth": "1901, 02, 01",
+    "Country": "USA",
+    "City": "Candiz",
+    "Gender": "Male"
+  }
+]
